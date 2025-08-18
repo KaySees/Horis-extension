@@ -210,7 +210,7 @@ class SuperVodPlugin : Plugin() {
         // haiwaikan
         // https://olevod1.com/api.php/provide/vod/
         // https://olevod2.com/api.php/provide/vod/
-//        addVodSource("欧乐影视", "https://olevodtv.com/api.php/provide/vod/")
+        addVodSource("欧乐影视", "https://olevodtv.com/api.php/provide/vod/")
         // bjyun,bjm3u8,tkyun,tkm3u8,dbyun,dbm3u8
         // http://104.149.175.67/api.php/provide/vod/
         addVodSource("神马聚合影视", "https://img.smdyw.top/api.php/provide/vod/")
