@@ -1,8 +1,8 @@
 {
-    "name": "Horis providers repository",
+    "name": "KaySees Horis providers repository",
     "description": "Chinese Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/plugins.json"
+      "https://raw.githubusercontent.com/KaySees/Horis-extension/builds/plugins.json"
     ]
   }
